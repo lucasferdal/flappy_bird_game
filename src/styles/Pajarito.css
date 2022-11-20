@@ -1,0 +1,7 @@
+.jugador {
+    position: absolute;
+    width: 5rem;
+    height: 5rem;
+    background-color: red;
+    transition: .1s;
+}

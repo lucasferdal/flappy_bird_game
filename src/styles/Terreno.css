@@ -1,0 +1,16 @@
+.tubos {
+    width: 4rem;
+    height: 10rem;
+    background-color: rgb(3, 100, 3);
+    position: absolute;
+    right: 0;
+    transition: .3s;
+}
+
+#tuboSuperior {
+    top: 0;
+}
+
+#tuboInferior {
+    bottom: 0;
+}
